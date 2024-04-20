@@ -1,2 +1,2 @@
 # AP-C
-To find ap without mathematics 
+To find ap without mathematics ...
